@@ -3,8 +3,8 @@ Motorcycle-Unit by ECLIP3S
 All credit goes to Mercuri I just made this a FiveM resource
 Original Download: https://www.lcpdfr.com/downloads/gta5mods/character/8891-san-andreas-motor-law-enforcement/
 
-Installation: Drag and drop the 'mototrcycle-unit' folder into your resources folder
-Add 'start mototrcycle-unit' to your server.cfg 
+Installation: Drag and drop the 'motorcycle-unit' folder into your resources folder
+Add 'start motorcycle-unit' to your server.cfg 
 Restart your server 
 Enjoy!
 
